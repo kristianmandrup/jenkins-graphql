@@ -1,6 +1,8 @@
 jenkins-graphql
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/jenkins-graphql.svg)](https://greenkeeper.io/)
+
 GraphQL server for Jenkins API
 
 -	https://github.com/graphql/graphql-js
